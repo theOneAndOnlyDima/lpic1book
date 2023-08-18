@@ -100,7 +100,7 @@ And here you can find some of the commands:
 
 |Command|Description|
 |-|-|
-|update|Updates the repositories and update the names of packages, or all if nothing is named|
+|update|Updates the repositories and the named packages, or all if nothing is named|
 |install|Install a package|
 |reinstall|Reinstall a package|
 |list|Show a list of packages|
